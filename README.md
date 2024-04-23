@@ -8,5 +8,5 @@ The data used was sourced from the United States Census Bureau
 This data is a combination of estimations and information collected in 2022 by the American Community Survey
 
 The data can be found using this link 
-[https://data.census.gov/table/ACSST1Y2022.S1401?q=schools%20in%20north%20carolina](census.gov)
+[https://data.census.gov/](https://data.census.gov/table/ACSST1Y2022.S1401?q=schools%20in%20north%20carolina)
 
