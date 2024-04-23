@@ -17,5 +17,5 @@ The purpose of this repository was to investigate the enrollment differences bet
 
 As a controlled variable, the data from the census outlining enrollment rates across all North Carolina schools was collected and placed into a visualization expressed in percent of total eligible population 
 
-![enrollment-bar-chart](Total Enroll.jpeg)
+![enrollment-bar-chart](images/TotalEnroll.jpeg)
 
