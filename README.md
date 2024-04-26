@@ -10,6 +10,10 @@ This data is a combination of estimations and information collected in 2022 by t
 The data can be found using this link 
 [https://data.census.gov/](https://data.census.gov/table/ACSST1Y2022.S1401?q=schools%20in%20north%20carolina)
 
+For users getting involved with this dataset, the subsets were created using basic Python coding language inside of a Colab notebook. 
+
+Further information and details regarding the coding proccess for reproduction can be found in the Census(1).ipynb file
+
 ## About the Data 
 ### Findings 
 
