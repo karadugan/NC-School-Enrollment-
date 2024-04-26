@@ -12,7 +12,7 @@ The data can be found using this link
 
 For users getting involved with this dataset, the subsets were created using basic Python coding language inside of a Colab notebook. 
 
-Further information and details regarding the coding proccess for reproduction can be found in the Census(1).ipynb file
+Further information and details regarding the coding proccess for reproduction can be found in the CensusData.ipynb file
 
 ## About the Data 
 ### Findings 
